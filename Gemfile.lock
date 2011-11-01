@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    guard (0.8.8)
+      thor (~> 0.14.6)
+    rspec-core (2.7.1)
+    thor (0.14.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  guard
+  rspec-core
