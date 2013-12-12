@@ -8,4 +8,8 @@ class Bowling
   def turn(pins)
     @score += pins
   end
+
+  def self.run
+    
+  end
 end
